@@ -7,7 +7,7 @@
   <a href="https://github.com/dangoslen/constable-github-action/actions"><img alt="constable-github-action-status" src="https://github.com/dangoslen/constable-github-action/workflows/units-test/badge.svg"></a>
   <img alt="constable-github-action-coverage" src="./assets/coverage-badge.svg">
 
-  [![Constable](http://img.youtube.com/vi/NXANSl0S1xA/0.jpg)](http://www.youtube.com/watch?v=NXANSl0S1xA "Constable")
+  [![Constable](http://img.youtube.com/vi/NXANSl0S1xA/0.jpg)](https://youtu.be/GfjyQW7QYaA "Constable")
   
 </div>
 
