@@ -6,9 +6,10 @@
   <h2>Now available as a Github Action. Check it out!!!</h2>
   <a href="https://github.com/dangoslen/constable-github-action/actions"><img alt="constable-github-action-status" src="https://github.com/dangoslen/constable-github-action/workflows/units-test/badge.svg"></a>
   <img alt="constable-github-action-coverage" src="./assets/coverage-badge.svg">
-
-  [![Constable](http://img.youtube.com/vi/NXANSl0S1xA/0.jpg)](https://youtu.be/GfjyQW7QYaA "Constable")
   
+# Project Video
+
+[![Constable](https://img.youtube.com/vi/NXANSl0S1xA/0.jpg)](https://www.youtube.com/watch?v=GfjyQW7QYaA)
 </div>
 
 ---
