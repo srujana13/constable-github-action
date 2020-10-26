@@ -1,0 +1,15 @@
+query getRepoFiles($name: String!){ 
+  viewer { 
+    login
+    repository(name: $name){
+      object(expression: "master:"){
+          ... on Tree{
+            entries{
+              name
+              type
+            }
+          }
+        }
+    }
+  }
+}

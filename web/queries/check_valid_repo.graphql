@@ -1,0 +1,7 @@
+query checkValidRepo($name: String!){ 
+  viewer { 
+    repository(name: $name){
+      id
+    }
+  }
+}

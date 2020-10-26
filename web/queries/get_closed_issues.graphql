@@ -1,0 +1,7 @@
+query getClosedIssuesInLastMonth($repo: String!, $owner: String!, $start_date: DateTime!){
+  repository(name:$repo, owner: $owner){
+    issues(states:CLOSED, first: 100, filterBy: {since: $start_date}){
+      totalCount
+    }
+  }
+}
