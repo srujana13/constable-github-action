@@ -1,0 +1,36 @@
+.loading {    
+    background-color: #ffffff;
+    background-image: url("https://www.romeloft.com/images/big-spinner.gif");
+    background-size: 20px 20px;
+    background-position:right center;
+    background-repeat: no-repeat;
+}
+
+.loading_bigger {    
+    background-color: #ffffff;
+    background-image: url("/static/images/spinner.gif");
+    background-size: 60px 60px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.valid{
+    background-color: #ffffff;
+    background-image: url("/static/images/tick-min.png");
+    background-size: 20px 20px;
+    background-position:right center;
+    background-repeat: no-repeat;
+}
+
+
+.invalid{
+    background-color: #ffffff;
+    background-image: url("/static/images/wrong-min.png");
+    background-size: 20px 20px;
+    background-position:right center;
+    background-repeat: no-repeat;
+}
+
+.hidden {
+    display: none;
+}
