@@ -5,6 +5,10 @@
   <h2>Keeping repositories contributable.</h2>
   <h2>Now available as a Github Action. Check it out!!!</h2>
   <a href="https://github.com/dangoslen/constable-github-action/actions"><img alt="constable-github-action-status" src="https://github.com/dangoslen/constable-github-action/workflows/units-test/badge.svg"></a>
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/palash03/constable-github-action">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/palash03/constable-github-action">
+  <img alt="GitHub" src="https://img.shields.io/github/license/palash03/constable-github-action">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/palash03/constable-github-action">
   <img alt="constable-github-action-coverage" src="./assets/coverage-badge.svg">
   
 ![](https://img.shields.io/youtube/views/GfjyQW7QYaA?style=social)
