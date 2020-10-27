@@ -15,7 +15,6 @@
   <img alt="constable-github-action-coverage" src="./assets/coverage-badge.svg">
   
 ![](https://img.shields.io/youtube/views/GfjyQW7QYaA?style=social)
-
 </div>
 
 ---
