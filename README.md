@@ -20,6 +20,8 @@
 
 ![Constable](https://img.shields.io/badge/dynamic/json?label=Constable&query=$.grade&url=https://constable-github.firebaseio.com/pushkardravid/savitar/master.json)
 
+[![DOI](https://zenodo.org/badge/295556704.svg)](https://zenodo.org/badge/latestdoi/295556704)
+
 
 ---
 
