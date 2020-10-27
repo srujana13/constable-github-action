@@ -1,13 +1,15 @@
 from getGithubData import Github
 from datetime import datetime, timedelta
 
+
 class Constable:
     def __init__(self, repo_name, owner, github_instance):
         self.repo_name = repo_name
         self.owner = owner
         self.github_instance = github_instance
-        self.required_files = ['README.md', 'CONTRIBUTING.md', 'CODE_OF_CONDUCT.md', 'LICENSE', 'CITATION.md', '.gitignore']
-    
+        self.required_files = ['README.md', 'CONTRIBUTING.md',
+                               'CODE_OF_CONDUCT.md', 'LICENSE', 'CITATION.md', '.gitignore']
+
     def get_score(self):
         score_dict = {}
         score = 0
@@ -31,7 +33,8 @@ class Constable:
             if repo_file == '.gitignore':
                 score += 1
                 score_dict['.gitignore'] = 1
-        absent_files = [reqd_file for reqd_file in self.required_files if reqd_file not in repo_files]
+        absent_files = [
+            reqd_file for reqd_file in self.required_files if reqd_file not in repo_files]
         for absent_file in absent_files:
             if absent_file == 'README.md':
                 score_dict['README.md'] = 0
@@ -47,14 +50,15 @@ class Constable:
                 score_dict['.gitignore'] = 0
 
         start_date = datetime.today() - timedelta(days=60)
-        start_date = start_date.isoformat()        
-        issues = self.github_instance.get_closed_issues(self.repo_name, self.owner, start_date)
+        start_date = start_date.isoformat()
+        issues = self.github_instance.get_closed_issues(
+            self.repo_name, self.owner, start_date)
         if issues > 1:
             score += 1
             score_dict['issues'] = 1
         score_dict['total_score'] = score
         return score_dict
-    
+
     def get_grade(self, score):
         score = (score/7) * 100
         if score >= 95:
@@ -76,4 +80,3 @@ class Constable:
         else:
             grade = 'F'
         return grade
-    
