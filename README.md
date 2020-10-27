@@ -57,7 +57,7 @@ python wsgi.py
 
 # Project Part 1 (Github Action)
 
-[![Constable](https://img.youtube.com/vi/GfjyQW7QYaA/0.jpg)](https://www.youtube.com/watch?v=NXANSl0S1xA)
+[![Constable](https://img.youtube.com/vi/NXANSl0S1xA/0.jpg)](https://www.youtube.com/watch?v=NXANSl0S1xA)
 
 ---
 
