@@ -4,6 +4,9 @@
 
   <h2>Keeping repositories contributable.</h2>
   <h2>Now available as a Github Action. Check it out!!!</h2>
+  <h2>Now available as a Github Application too. <a href="https://constable-webapp.herokuapp.com/">Check it out!!!</a>
+  <img src="https://i.imgur.com/Oo5RA72.png" height="18px">
+  </h2>
   <a href="https://github.com/dangoslen/constable-github-action/actions"><img alt="constable-github-action-status" src="https://github.com/dangoslen/constable-github-action/workflows/units-test/badge.svg"></a>
   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/palash03/constable-github-action">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/palash03/constable-github-action">
@@ -13,9 +16,48 @@
   
 ![](https://img.shields.io/youtube/views/GfjyQW7QYaA?style=social)
 
-# Project Video
-[![Constable](https://img.youtube.com/vi/GfjyQW7QYaA/0.jpg)](https://www.youtube.com/watch?v=GfjyQW7QYaA)
 </div>
+
+---
+
+# Project Part 2 (Github Application)
+
+[![Constable](https://img.youtube.com/vi/GfjyQW7QYaA/0.jpg)](https://www.youtube.com/watch?v=GfjyQW7QYaA)
+
+In this iteration, we have created a 3rd party application that does the same job as the action, but without the hassle of you creating a pull request or installing an action on your repository. Now, you can run constable reports on your repository just by a single click on our website. The website can be found here: https://constable-webapp.herokuapp.com
+
+### How to setup the application on local
+
+The web application code is placed under the web folder of this repository. To install the dependencies, run the following steps
+
+```
+virtualenv venv
+```
+
+```
+pip install -r requirements.txt
+```
+Next, you need to create a developer application in github and generate a clientId and client secret for it. The steps for the same can be found [here](https://docs.github.com/en/free-pro-team@latest/developers/apps/creating-an-oauth-app).
+
+Once you have the credentials generated, run the following commands:
+
+```
+export secret_key=<your preferred app key | any string>
+
+export client_id=<newly generated client id>
+
+export client_secret=<newly generated client secret>
+```
+Now that all the pre requisites are done, you can run the app using
+
+```
+python wsgi.py
+```
+
+
+# Project Part 1 (Github Action)
+
+[![Constable](https://img.youtube.com/vi/GfjyQW7QYaA/0.jpg)](https://www.youtube.com/watch?v=NXANSl0S1xA)
 
 ---
 
