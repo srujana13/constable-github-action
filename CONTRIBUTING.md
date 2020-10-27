@@ -1,9 +1,7 @@
-# Contributing to Constable
-Hi there! Thanks for taking the time to contribute to our github repo.
-
-The following is a set of guidelines for contributing to our repository which has an implementation of automated code and file review i.e look for the presence of files, correct references, review if releases exist, etc. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 #### Table Of Contents
+
+[Contributing to Constable](#contributing-to-constable]
 
 [Code of Conduct](#code-of-conduct)
 
@@ -18,6 +16,13 @@ The following is a set of guidelines for contributing to our repository which ha
   * [Pull Requests](#pull-requests)
 
 [Attribution](#attribution)
+
+
+## Contributing to Constable
+
+Hi there! Thanks for taking the time to contribute to our github repo.
+
+The following is a set of guidelines for contributing to our repository which has an implementation of automated code and file review i.e look for the presence of files, correct references, review if releases exist, etc. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 
 ## Code of Conduct
