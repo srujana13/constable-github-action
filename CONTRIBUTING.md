@@ -1,12 +1,34 @@
-# Contributing to Constable
+
+#### Table Of Contents
+
+[Contributing to Constable](#contributing-to-constable]
+
+[Code of Conduct](#code-of-conduct)
+
+[Styleguides](#styleguides)
+  * [Git Commit Messages](#git-commit-messages)
+  * [JavaScript Styleguide](#javascript-styleguide)
+  * [HTML Styleguide](#html-styleguide)
+
+[Tools](#tools) 
+  * [Testing](#testing)
+  * [The Kanban Board for Constable](#the-kanban-board-for-constable) 
+  * [Pull Requests](#pull-requests)
+
+[Attribution](#attribution)
+
+
+## Contributing to Constable
+
 Hi there! Thanks for taking the time to contribute to our github repo.
 
 The following is a set of guidelines for contributing to our repository which has an implementation of automated code and file review i.e look for the presence of files, correct references, review if releases exist, etc. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
-# Code of Conduct
-This project and everyone participating in it is governed by our [Code of Conduct](./CODE-OF-CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to ygangwa@ncsu.edu.
 
-# How To Contribute
+## Code of Conduct
+
+All developers contributing to this project abide by the [Code of Conduct](CODE_OF_CONDUCT.md) defined for this project. Violations should be reported at  [pushkarsdravid@gmail.com](mailto:pushkarsdravid@gmail.com).
+Please follow these steps to have your contribution considered by the maintainers:
 
 
 ## Styleguides
@@ -75,7 +97,7 @@ Testing is important. We utilize `jest` for our unit tests and continually run t
 
 ### The Kanban Board for Constable.
 
-The [Kanban Board](https://github.com/dangoslen/constable-github-action/projects/1) is used for all issues/feature requests. All items that require any code changes should be converted to issues, tagged with the appropriate milestone, and then progress can be tracked using issues.
+The [Kanban Board](https://github.com/palash03/constable-github-action/projects/2) is used for all issues/feature requests. All items that require any code changes should be converted to issues, tagged with the appropriate milestone, and then progress can be tracked using issues.
 
 ### Pull Requests
 
