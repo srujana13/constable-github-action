@@ -18,8 +18,7 @@
 </div>
 
 
-[![DOI](https://zenodo.org/badge/295556704.svg)](https://zenodo.org/badge/latestdoi/295556704)
-
+<a href="https://zenodo.org/badge/latestdoi/299142683"><img src="https://zenodo.org/badge/299142683.svg" alt="DOI"></a>
 
 ---
 
