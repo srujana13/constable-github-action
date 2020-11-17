@@ -30,7 +30,7 @@ The responses from the lab participants w.r.t the question "is the Constable app
 ![seproj3](https://user-images.githubusercontent.com/69658606/99326247-f00a6680-2845-11eb-9ff6-6304496c3516.jpeg)
 =======
 
-## Suggesstions for Lab Participants
+## Suggesstions by Lab Participants:
 
 -  "The app would be better if it checks inside individual files to and then rate them. "
 
