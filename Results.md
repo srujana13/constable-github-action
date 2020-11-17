@@ -6,11 +6,11 @@
 
 ## Materials: 
 1. Git repositories: 
- - AWS Acc Shread - https://github.com/openshift/aws-account-shredder
- - Scikit learn - https://github.com/scikit-learn/scikit-learn
- - Dark Error Holes - https://github.com/MrL1605/Dark-Error-Holes
- - Expertiza - https://github.com/expertiza/expertiza
- - Starship - https://github.com/starship/starship
+  - AWS Acc Shread - https://github.com/openshift/aws-account-shredder
+  - Scikit learn - https://github.com/scikit-learn/scikit-learn
+  - Dark Error Holes - https://github.com/MrL1605/Dark-Error-Holes
+  - Expertiza - https://github.com/expertiza/expertiza
+  - Starship - https://github.com/starship/starship
 2. Apllication link - https://whispering-cove-85016.herokuapp.com/
 3. Survey Link - https://forms.gle/7e2RejWu4uWdw8MV8
 4. Monitored zoom session 
