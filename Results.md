@@ -34,7 +34,7 @@ The chart above shows the score awarded by the participants regarding how easy i
 This chart shows the amount of time taken by each participant for calculating the score for the git repos manually and using constable. We can see that 6 / 10 participants took less time while using constable than while calculating it manually. This could mean that constable is helping people save time. However, due to the small size of responses this is inconclusive. 
 
 
-## Suggesstions for Lab Participants
+## Suggesstions by Lab Participants:
 
 -  "The app would be better if it checks inside individual files to and then rate them. "
 
