@@ -16,14 +16,14 @@ The responses from the lab participants w.r.t the question "is the Constable app
 
 ## Suggesstions for Lab Participants
 
-- Item 1 "The app would be better if it checks inside individual files to and then rate them. "
+-  "The app would be better if it checks inside individual files to and then rate them. "
 
-- Item 2 "Include issues (closed and open), commits (are descriptive), number of contributors and documentation as a factor too."
+-  "Include issues (closed and open), commits (are descriptive), number of contributors and documentation as a factor too."
 
-- Item 3 "Considering the content and usability of README.md and code coverage "
+-  "Considering the content and usability of README.md and code coverage "
 
-- Item 4 "Weighted Scoring of each metric considered"
-- Item 5 "I'd like to see it tracking the code coverage and if code build passes or not. Also, currently I can use the application on my repositories only. I'd like to see Constable working on other public repositories as well. "
+-  "Weighted Scoring of each metric considered"
+-  "I'd like to see it tracking the code coverage and if code build passes or not. Also, currently I can use the application on my repositories only. I'd like to see Constable working on other public repositories as well. "
 
 
 ## Conclusion:
