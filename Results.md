@@ -48,6 +48,12 @@ This chart shows the amount of time taken by each participant for calculating th
 
 ## Conclusion:
 
+We derive the following conclusion from the lab trials: 
+
+- Constable does a good job in identifying some major files ( such as LICENSE.md ) in a repository. Although it does not scrutinize those files like a human would do.
+- 77.4% of participant gave the rating of 4+ out of 5 in the lab trials, which means they found it really useful and were willing to use it.  
+- 70% of the participant found constable easy to install .
+- Constable is helping users save time. 60% people took less time with constable. However, due to the small size of responses this is inconclusive. 
 
 ## Threats to validity: 
 
