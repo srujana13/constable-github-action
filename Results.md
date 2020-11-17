@@ -12,7 +12,7 @@
  - Expertiza - https://github.com/expertiza/expertiza
  - Starship - https://github.com/starship/starship
 2. Apllication link - https://whispering-cove-85016.herokuapp.com/
-3. Survey 
+3. Survey Link - https://forms.gle/7e2RejWu4uWdw8MV8
 4. Monitored zoom session 
 
 ## Observations:
