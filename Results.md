@@ -26,6 +26,7 @@ The responses from the lab participants w.r.t the question "is the Constable app
 
 <img width="607" alt="Screen Shot 2020-11-16 at 7 25 31 PM" src="https://user-images.githubusercontent.com/69658606/99324166-a9b30880-2841-11eb-8302-97bee56a1f58.png">
 
+The chart above shows the score awarded by the participants regarding how easy is the application to install and sue. Most of the participants believed that the app was easy to install since all they had to do was open a URL and login with their github credentials. However 1-2 participants believed that since they had to own the repositories for which they want to get the score for and they had to sign in with their git accounts it was not as easy. Overall, we got good responses for this one.
 
 ![seproj3](https://user-images.githubusercontent.com/69658606/99326247-f00a6680-2845-11eb-9ff6-6304496c3516.jpeg)
 =======
