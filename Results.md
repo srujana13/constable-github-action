@@ -31,6 +31,9 @@ The chart above shows the score awarded by the participants regarding how easy i
 ![seproj3](https://user-images.githubusercontent.com/69658606/99326247-f00a6680-2845-11eb-9ff6-6304496c3516.jpeg)
 =======
 
+This chart shows the amount of time taken by each participant for calculating the score for the git repos manually and using constable. We can see that 6 / 10 participants took less time while using constable than while calculating it manually. This could mean that constable is helping people save time. However, due to the small size of responses this is inconclusive. 
+
+
 ## Suggesstions for Lab Participants
 
 -  "The app would be better if it checks inside individual files to and then rate them. "
@@ -48,3 +51,7 @@ The chart above shows the score awarded by the participants regarding how easy i
 
 ## Threats to validity: 
 
+- **Repeated Testing:** Some of the participants have also picked the same project to test. This causes a conflict of interest in terms of materials used for evaluation and the kind of responses we received. 
+- **Public repository and easy availability of every groups code:** We believe that since all the repositories links are freely available to all the other students, it could have been a possibility that some of the subjects have referred to the implementations before their trial giving them an unfair advantage over the other subjects. This would have impacted the results of our trial unknowingly.
+- **Sample Population Difference:** We picked 5 git repositories for the trial. It is a possible threat that there could be other repositories out there which are either harder to diagnose or easier to diaognose by both participants and the application itself. If this is the case, our results may not be as accurate. 
+- **History of subjects:** Subjects come from different backgrounds, for example, some may be more familiar with android development and some more familiar with cloud data services. It is a possibility that when posed with a repository that is not familiar to them they might produce flaky results. It could also be the case that if they are too experienced in the field, they might produce very specifiv results. This would cause an inconsistency in the expectation of what factors the score should include. 
